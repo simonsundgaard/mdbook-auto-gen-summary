@@ -21,7 +21,8 @@ mdbook-auto-gen-summary gen -t /path/to/your/mdbook/src # -t indicate mdbook to 
 ```
 
 This will walk your mdbook src dir and generate the book summary in /path/to/your/mdbook/src/SUMMARY.md
-Remember that each folder needs a README.md to be processed.
+
+##### Remember that each folder needs a README.md to be processed.
 
 #### 2. Use as mdbook preprocessor.
 
