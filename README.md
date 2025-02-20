@@ -1,6 +1,6 @@
 # mdbook-auto-gen-summary
 
-A preprocessor and cli tool for mdbook to auto generate summary forked from cococolanosugar/mdbook-auto-gen-summary
+A preprocessor and cli tool for mdbook to auto generate summary forked from [cococolanosugar/mdbook-auto-gen-summary](https://github.com/cococolanosugar/mdbook-auto-gen-summary)
 
 #### install
 
